@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogDemoFolder", "NlogDemoFolder.csproj", "{974D848B-01DE-4D3A-9687-02431797E00B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NlogDemoFolder", "NlogDemoFolder.csproj", "{974D848B-01DE-4D3A-9687-02431797E00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList1", "..\ArrayList1\ArrayList1.csproj", "{9180ECE5-2A75-45EF-80D1-9B0AF8371AE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{974D848B-01DE-4D3A-9687-02431797E00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{974D848B-01DE-4D3A-9687-02431797E00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{974D848B-01DE-4D3A-9687-02431797E00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9180ECE5-2A75-45EF-80D1-9B0AF8371AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9180ECE5-2A75-45EF-80D1-9B0AF8371AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9180ECE5-2A75-45EF-80D1-9B0AF8371AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9180ECE5-2A75-45EF-80D1-9B0AF8371AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
